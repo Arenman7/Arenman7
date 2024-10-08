@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arenman7&label=Github%20Views&color=3a8851&style=flat" alt="arenman7" /> </p>
 
-- Check out my website! [anbtech.xyz](anbtech.xyz)
+- Check out my website! [anbtech.xyz](https://www.anbtech.xyz)
 
 - I’m currently focusing on **SwiftUI, and ReactJS** 
 
