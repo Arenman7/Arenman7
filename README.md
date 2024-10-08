@@ -12,7 +12,7 @@
 
 - I’m currently focusing on **SwiftUI, and ReactJS** 
 
-- I'm currently working on a [ReactJS Blog](anbtech.xyz)
+- I'm currently working on a [ReactJS Blog](https://www.anbtech.xyz)
 
 - 📫 Shoot me an email. (I'll respond!) [aren@anbtech.xyz](mailto:aren@anbtech.xyz)
 
